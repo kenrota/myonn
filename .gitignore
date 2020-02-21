@@ -1,0 +1,5 @@
+.DS_Store
+/.history
+/.idea/
+target/
+/src/main/resources/*.csv
